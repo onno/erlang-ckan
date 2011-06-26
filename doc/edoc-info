@@ -1,0 +1,3 @@
+{application,ckan}.
+{packages,[]}.
+{modules,[ckan,ckan_app]}.

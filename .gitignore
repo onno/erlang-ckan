@@ -1,0 +1,4 @@
+deps/*
+priv/log/*
+*.beam
+*.tmproj
