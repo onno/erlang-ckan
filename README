@@ -1,0 +1,16 @@
+Erlang wrapper around the CKAN API.
+
+The Comprehensive Knowledge Archive Network (CKAN) is is a 
+web-based system for the storage and distribution of data, such as 
+spreadsheets and the contents of databases supported by the 
+Open Knowledge Foundation. It is inspired by the package management 
+capabilities common to open source operating systems like Linux, 
+and is intended to be the "apt-get of Debian for data".
+
+The system is used both as a public platform on ckan.net and in 
+various government data catalogues, such as the UK's [data.gov.uk], 
+Norway's [data.norge.no] and the Dutch national data register.
+
+The ckan erlang module allows readonly access to the REST API of 
+a CKAN repository. At this moment there is no support for
+adding or updating. This module uses version 2 of the CKAN API.
